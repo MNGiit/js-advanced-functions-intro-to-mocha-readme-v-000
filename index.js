@@ -8,4 +8,4 @@ function sayHeyFriend(name) {return 'Hey, ' + name + '!'}
 
 function shouting(word) {return word.toUpperCase()}
 
-function roundDown(num) {return num}
+function roundDown(num) {return num.floor()}
