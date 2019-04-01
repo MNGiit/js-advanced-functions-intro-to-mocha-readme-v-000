@@ -6,4 +6,4 @@ function sayHey() {return 'Hey!'}
 
 function sayHeyFriend(name) {return 'Hey, ' + name + '!'}
 
-function shouting(word) {return word.upperCase()}
+function shouting(word) {return word.toUpperCase()}
