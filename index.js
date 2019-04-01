@@ -1,3 +1,1 @@
-function theTruth() {
-  return true;
-}
+function theTruth() {return true;}
